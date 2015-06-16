@@ -8,7 +8,8 @@ Changelog
 4.3.4.2 (unreleased)
 --------------------
 
-- Nothing changed yet.
+- Fix email validation of long domain names.
+  [gotcha]
 
 
 4.3.4.1 (2014-11-13)
