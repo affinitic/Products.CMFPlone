@@ -14,6 +14,9 @@ Incompatibilities:
 
 New:
 
+- added invisible-grid table styles
+  [agitator]
+
 - Control panel to mange portal actions
   [ebrehault]
 
