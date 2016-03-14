@@ -5,7 +5,7 @@
 Changelog
 =========
 
-4.3.4.2 (unreleased)
+4.3.4.2 (2016-03-14)
 --------------------
 
 - Fix email validation of long domain names.
